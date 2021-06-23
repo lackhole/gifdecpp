@@ -24,7 +24,7 @@
 
 
 int main() {
-  gif::GIFDecoder dec(PWD + "/parrot.gif");
+  gif::GIFDecoder dec(PWD + EXAMPLE_SEP + "parrot.gif");
   if (!dec.is_open()) {
     std::cerr << "Failed to open file\n";
     return EXIT_FAILURE;
