@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../gifdec/include/gifdec/c/gifdec_c.h
+stdint.h
+-
+cstdint
+-
+
+../gifdec/include/gifdec/gifdec.h
+cstdint
+-
+string
+-
+vector
+-
+
+/Users/yonggyulee/CLionProjects/gif/gifdec/include/gifdec/gifdec.cc
+gifdec/gifdec.h
+/Users/yonggyulee/CLionProjects/gif/gifdec/include/gifdec/gifdec/gifdec.h
+cstring
+-
+vector
+-
+gifdec/c/gifdec_c.h
+/Users/yonggyulee/CLionProjects/gif/gifdec/include/gifdec/gifdec/c/gifdec_c.h
+

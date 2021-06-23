@@ -1,0 +1,6 @@
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/CMakeFiles/untitled4.dir
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/gifdec/CMakeFiles/rebuild_cache.dir
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/gifdec/CMakeFiles/edit_cache.dir
+/Users/yonggyulee/CLionProjects/gif/cmake-build-debug/gifdec/CMakeFiles/gifdec.dir

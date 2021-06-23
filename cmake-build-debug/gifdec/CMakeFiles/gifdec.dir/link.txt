@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgifdec.a CMakeFiles/gifdec.dir/include/gifdec/c/gifdec_c.c.o CMakeFiles/gifdec.dir/include/gifdec/gifdec.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgifdec.a
